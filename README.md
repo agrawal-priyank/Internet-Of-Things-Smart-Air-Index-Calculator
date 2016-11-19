@@ -19,5 +19,5 @@ Java, Core Java, Swing, Google Maps API, Twilio SMS API
 
 # Environment
 
-NetBeans
+IDE: NetBeans
 
