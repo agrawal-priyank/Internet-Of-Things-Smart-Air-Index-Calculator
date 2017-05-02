@@ -1,6 +1,6 @@
 # Internet of Things (Air Quality Tracking) - Java Swing Application
 
-This id the final project for the course Application Engineering and Development. It can be used to track air quality of different streets and cities by collection data from the sensors installed in this regions.
+This is the final project for the course Application Engineering and Development. It can be used to track air quality of different streets and cities by collection data from the sensors installed in this regions.
 
 # Project Description
 
