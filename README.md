@@ -2,7 +2,7 @@
 
 This is the final project for the course Application Engineering and Development. It can be used to track air quality of different streets and cities by collecting data from the sensors installed in this regions.
 
-# Project Description
+# Description
 1. Developed an enterprise application using Java and implemented it using the Eco-System model.
 2. Built the application using Singleton design pattern to implement the concept of user registration, user login, work requests and work queues to be performed by users with different roles. 
 3. Simulated the working of sensors to record the quantities of different pollutants in the atmosphere and calculated the Air Index of different regions with the help of those measurements. 
