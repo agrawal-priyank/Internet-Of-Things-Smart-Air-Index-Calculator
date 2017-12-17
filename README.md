@@ -7,6 +7,9 @@
 4. Concluded about the present Air Quality looking at Air Index and provided the data for analysis and visualization.
 5. A similar idea has already started to be implemented in Chicago known as the 'Array of Things' by the University of Chicago. The link to it: https://arrayofthings.github.io/
 
+### Screenshots
+https://github.com/agrawal-priyank/Internet-Of-Things-Smart-Air-Index-Calculator/blob/master/Screenshots/Screen%201.PNG
+
 ### Programming Language
 Java
 
@@ -18,3 +21,4 @@ NetBeans
 
 ### API
 Google Maps, Twilio SMS
+
