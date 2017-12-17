@@ -9,14 +9,32 @@
 
 ### Screenshots
 ![alt text](https://github.com/agrawal-priyank/Internet-Of-Things-Smart-Air-Index-Calculator/blob/master/Screenshots/Screen%201.PNG)
+
+
 ![alt text](https://github.com/agrawal-priyank/Internet-Of-Things-Smart-Air-Index-Calculator/blob/master/Screenshots/Screen%202.PNG)
+
+
 ![alt text](https://github.com/agrawal-priyank/Internet-Of-Things-Smart-Air-Index-Calculator/blob/master/Screenshots/Screen%203.PNG)
+
+
 ![alt text](https://github.com/agrawal-priyank/Internet-Of-Things-Smart-Air-Index-Calculator/blob/master/Screenshots/Screen%204.PNG)
+
+
 ![alt text](https://github.com/agrawal-priyank/Internet-Of-Things-Smart-Air-Index-Calculator/blob/master/Screenshots/Screen%205.PNG)
+
+
 ![alt text](https://github.com/agrawal-priyank/Internet-Of-Things-Smart-Air-Index-Calculator/blob/master/Screenshots/Screen%206.PNG)
+
+
 ![alt text](https://github.com/agrawal-priyank/Internet-Of-Things-Smart-Air-Index-Calculator/blob/master/Screenshots/Screen%207.PNG)
+
+
 ![alt text](https://github.com/agrawal-priyank/Internet-Of-Things-Smart-Air-Index-Calculator/blob/master/Screenshots/Screen%208.PNG)
+
+
 ![alt text](https://github.com/agrawal-priyank/Internet-Of-Things-Smart-Air-Index-Calculator/blob/master/Screenshots/Screen%209.PNG)
+
+
 ![alt text](https://github.com/agrawal-priyank/Internet-Of-Things-Smart-Air-Index-Calculator/blob/master/Screenshots/Screen%2010.PNG)
 
 ### Programming Language
